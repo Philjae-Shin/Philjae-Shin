@@ -15,7 +15,8 @@
   <p><b> Etc & Tools💻 </b></p>
   
   ![GitHub]("https://img.shields.io/badge/github-696969?style=for-the-badge&logo=github&logoColor=white")
-  ![IntelliJ]("https://img.shields.io/badge/IntelliJ idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white")
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  
 <!--
 **henry3361/henry3361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
