@@ -1,7 +1,7 @@
 <div align=center>
   <h3>Hello! 😎</h3>
   <h3>University Student _ Henry Shin</h3>
-  <p><b>📧contact :</b> willhyc1@gmail.com</p>
+  <p><b>💁🏻contact :</b> willhyc1@gmail.com</p>
 </div>
 <br>
 <div align="center">
