@@ -1,30 +1,42 @@
-<div align=center>
+<div align="center">
   <h3>Hello! 😎</h3>
   <h3>University Student _ Henry Shin</h3>
-  <p><b>💁🏻contact : </b> willhyc1@gmail.com</p>
+  <p><b>💁🏻 Contact: </b> willhyc1@gmail.com</p>
 </div>
-<br>
-<div align="center">
-  <h3> 💡Skills💡 </h3>
-  <p><b> 📖Language & Framework </b></p>
-  
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-  
-  <br>
-  <p><b> 💻 Etc & Tools </b></p>
 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-  ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-  ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
+<br>
+
+<div align="center">
+  <h3>💡 Skills 💡</h3>
   
+  <!-- Language & Framework -->
+  <p><b>📖 Language & Framework</b></p>
+  
+  [![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)]()
+  [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)]()
+  [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)]()
+  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+  [![Haskell Badge](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)]()
+  [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)]()
+  [![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)]()
+  [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)]()
+
+  <br><br>
+
+  <!-- Etc & Tools -->
+  <p><b>💻 Etc & Tools</b></p>
+  
+  [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]()
+  [![Visual Studio Code Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)]()
+  [![Vim Badge](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)]()
+  [![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)]()
+  [![WebStorm Badge](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)]()
+
+  <br><br>
+
+  <!-- Cloud Services -->
+  <p><b>✨ Cloud Services</b></p>
+  
+  [![AWS Badge](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)]()
+</div>
