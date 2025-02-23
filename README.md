@@ -18,6 +18,7 @@
   [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
   [![Haskell Badge](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)]()
   [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)]()
+  [![R Badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)]()
   [![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)]()
   [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)]()
 
@@ -32,6 +33,7 @@
   [![Vim Badge](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)]()
   [![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)]()
   [![WebStorm Badge](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)]()
+  [![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)]()
 
   <br><br>
 
