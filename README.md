@@ -40,5 +40,9 @@
   <!-- Cloud Services -->
   <p><b>✨ Cloud Services</b></p>
   
-  [![AWS Badge](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)]()
+  [![AWS Badge](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)]()  
+  [![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)]()
+  [![Amazon EC2 Badge](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)]()
+  [![Amazon ECR Badge](https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat-square&logo=amazonecr&logoColor=white)]()
+  [![Amazon RDS Badge](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)]()
 </div>
