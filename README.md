@@ -1,7 +1,6 @@
 <div align="center">
   <h3>Hello! 😎</h3>
   <h3>University Student _ Henry Shin</h3>
-  <p><b>💁🏻 Contact: </b> willhyc1@gmail.com</p>
 </div>
 
 <br>
@@ -34,6 +33,7 @@
   [![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)]()
   [![WebStorm Badge](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)]()
   [![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)]()
+  [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
 
   <br><br>
 
@@ -46,3 +46,5 @@
   [![Amazon ECR Badge](https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat-square&logo=amazonecr&logoColor=white)]()
   [![Amazon RDS Badge](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)]()
 </div>
+
+<br><br>
