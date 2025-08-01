@@ -31,7 +31,6 @@
   [![Visual Studio Code Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)]()
   [![Vim Badge](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)]()
   [![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)]()
-  [![WebStorm Badge](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)]()
   [![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)]()
   [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
 
