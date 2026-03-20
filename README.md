@@ -1,50 +1,47 @@
-<div align="center">
-  <h3>Hello! 😎</h3>
-  <h3>University Student _ Henry Shin</h3>
-</div>
+# Henry Shin
 
-<br>
+**Systems Software Engineer**
 
-<div align="center">
-  <h3>💡 Skills 💡</h3>
-  
-  <!-- Language & Framework -->
-  <p><b>📖 Language & Framework</b></p>
-  
-  [![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)]()
-  [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)]()
-  [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)]()
-  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-  [![Haskell Badge](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)]()
-  [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)]()
-  [![R Badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)]()
-  [![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)]()
-  [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)]()
+---
 
-  <br><br>
+I work on low-level systems software — GPU driver stacks, virtualization, and performance-critical code close to hardware.
 
-  <!-- Etc & Tools -->
-  <p><b>💻 Etc & Tools</b></p>
-  
-  [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
-  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]()
-  [![Visual Studio Code Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)]()
-  [![Vim Badge](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)]()
-  [![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)]()
-  [![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)]()
-  [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
+### Tech
 
-  <br><br>
+**Languages**
 
-  <!-- Cloud Services -->
-  <p><b>✨ Cloud Services</b></p>
-  
-  [![AWS Badge](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)]()  
-  [![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)]()
-  [![Amazon EC2 Badge](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)]()
-  [![Amazon ECR Badge](https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat-square&logo=amazonecr&logoColor=white)]()
-  [![Amazon RDS Badge](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)]()
-</div>
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
-<br><br>
+**Systems & Tools**
 
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/ARM_Architecture-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Device_Trees-4B275F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arm_DS-00C1DE?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fast_Models/FVP-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDB-black?style=for-the-badge&logo=gnu&logoColor=white" />
+</p>
+
+### Stats
+
+<p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Philjae-Shin&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philjae-Shin&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=6&hide=dart,java,html,css,javascript" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Philjae-Shin&theme=github-compact&hide_border=true&area=true" width="100%" />
