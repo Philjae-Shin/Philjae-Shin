@@ -37,6 +37,15 @@ I work on low-level systems software — GPU driver stacks, virtualization, and 
   <img src="https://img.shields.io/badge/GDB-black?style=for-the-badge&logo=gnu&logoColor=white" />
 </p>
 
+**Hardware**
+
+<p>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeagleBone-333333?style=for-the-badge&logoColor=white" />
+</p>
+
 ### Stats
 
 <p>
