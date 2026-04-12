@@ -45,12 +45,3 @@ I work on low-level systems software — GPU driver stacks, virtualization, and 
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/BeagleBone-333333?style=for-the-badge&logoColor=white" />
 </p>
-
-### Stats
-
-<p>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Philjae-Shin&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philjae-Shin&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=6&hide=dart,java,html,css,javascript" />
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Philjae-Shin&theme=github-compact&hide_border=true&area=true" width="100%" />
