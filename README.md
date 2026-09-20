@@ -1,13 +1,3 @@
-# Henry Shin
-
-**Systems Software Engineer**
-
----
-
-I work on low-level systems software — GPU driver stacks, virtualization, and performance-critical code close to hardware.
-
-### Tech
-
 **Languages**
 
 <p>
